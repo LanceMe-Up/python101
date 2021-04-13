@@ -8,6 +8,5 @@ def print_name(value):
     return value
 
 
-# name = get_data()
-# print("bahira ko print", print_name("A"))
-print_name("haina")
+name = get_data()
+print("bahira ko print", print_name("A"))
